@@ -6,6 +6,6 @@ Desenvolvimento de um algoritmo para leitura, codificação e compressão de ima
 [xxxxxxxxxxxxxx] Daniel Fernandes
 [20251045050585] Hosana Fernandes
 [xxxxxxxxxxxxxx] Mateus Oliveira
-[xxxxxxxxxxxxxx] Pedro Vasconcelos
+[20251045050437] Pedro Vasconcelos
 
 /************/

@@ -1,1 +1,3 @@
-# Realização do trabalho final, constando como A2N2, de Laboratório de Programação - Leitor, Compressor + Codificador e Decodificador de Imagens PGM.
+# Trabalho final de Laboratório de Programação
+
+Desenvolvimento de um algoritmo para leitura, codificação e compressão de imagens PGM. 
